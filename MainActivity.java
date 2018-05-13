@@ -13,8 +13,6 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    int i = 1;
-
 
     public void clickFunction(View view){
 
